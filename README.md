@@ -1,5 +1,7 @@
 # A simple instaloader docker container
 
+https://instaloader.github.io/
+
 ## Usage
 
 ```bash
